@@ -1,0 +1,14 @@
+kaptcha:
+  type: math
+  cache:
+    type: redis
+spring:
+  redis:
+    database: 1
+    host: 10.168.1.118
+    # Redis服务器连接密码（默认为空）
+    password: ''
+    # Redis服务器连接端口
+    port: 6379
+    # 连接超时时间（毫秒）
+    timeout: 30000

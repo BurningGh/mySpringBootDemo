@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.example.shiroredissession.dao.UserRoleAuthDao">
+
+
+    <delete id="delRole">
+        delete from user_role where user_id = #{arg0} and role_id = #{arg1}
+    </delete>
+
+    <delete id="delAuth">
+        delete from role_auth where role_id = #{arg0} and auth_id = #{arg1}
+    </delete>
+
+    <insert id="saveRoleAuth">
+        insert into role_auth values (#{arg0}, #{arg1})
+    </insert>
+
+    <insert id="saveUserRole">
+        insert into user_role values (#{arg0}, #{arg1})
+    </insert>
+
+</mapper>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.example.shiroredissession.dao.UserDao">
+
+    <select id="queryAllUsers" resultType="User">
+        select * from user
+    </select>
+
+    <select id="queryUserByUsername" resultType="User">
+        select * from user where username = #{username}
+    </select>
+
+    <select id="queryUserById" resultType="User">
+        select * from user where id = #{id}
+    </select>
+
+    <select id="queryRoleIdByUserId" resultType="Integer">
+      select role_id from user_role where user_id = #{id}
+    </select>
+
+    <select id="queryRoleByRoleId" resultType="Role">
+        select * from role where id = #{id}
+    </select>
+
+    <select id="queryAuthIdByRoleId" resultType="Integer">
+        select auth_id from role_auth where role_id = #{id}
+    </select>
+
+    <select id="queryAuthByAuthId" resultType="Auth">
+        select * from auth where id = #{id}
+    </select>
+
+    <insert id="saveOneUser" parameterType="User">
+        insert into user(username, password) values(#{username}, #{password})
+    </insert>
+
+    <delete id="delOneUserById" >
+        delete from user where id = #{id}
+    </delete>
+
+</mapper>

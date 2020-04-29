@@ -1,0 +1,6 @@
+spring:
+  kafka:
+    #kafka 服务器地址，每个地址之间逗号隔开
+    bootstrap-servers: 10.168.1.118:9092
+    consumer:
+      group-id: ceshi

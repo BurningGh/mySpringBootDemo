@@ -1,0 +1,19 @@
+spring:
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://118.25.27.132:3306/log?useUnicode=true&characterEncoding=utf8
+    username: root
+    password: 123456
+
+
+server:
+  port: 80
+  tomcat:
+    uri-encoding: utf-8
+
+
+# MyBatis
+mybatis:
+    mapperLocations: classpath:mapper/*.xml
+    type-aliases-package: com.example.log.model  # 注意：对应实体类的路径

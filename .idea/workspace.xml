@@ -1,0 +1,1816 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed9bf748-b218-4083-b498-6e6e16a84b5a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/EasyCodeConfig/audio-db-dictionary.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/StackInTheFlow-profile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/de9a79b5-a114-4780-a603-98c212bff3d8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cn_afterturn_easypoi_annotation_4_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cn_afterturn_easypoi_base_4_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cn_afterturn_easypoi_spring_boot_starter_4_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cn_afterturn_easypoi_web_4_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cn_hutool_hutool_all_5_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cn_hutool_hutool_all_5_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_1_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_1_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_spring_boot_starter_1_1_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_spring_boot_starter_1_1_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_39.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_47.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_61.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aliyun_aliyun_java_sdk_core_3_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aliyun_aliyun_java_sdk_ecs_4_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aliyun_aliyun_java_sdk_ram_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aliyun_aliyun_java_sdk_sts_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aliyun_oss_aliyun_sdk_oss_3_5_0_beta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_3_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_annotation_3_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_boot_starter_3_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_core_3_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_extension_3_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_generator_3_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_luben_zstd_jni_1_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_penggle_kaptcha_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_virtuald_curvesapi_1_04.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_virtuald_curvesapi_1_06.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_16_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jhlabs_filters_2_0_235_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_fastinfoset_FastInfoset_1_2_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_lettuce_lettuce_core_5_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_43_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_43_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_43_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_43_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_43_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_43_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_3_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_persistence_jakarta_persistence_api_2_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_transaction_jakarta_transaction_api_1_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_persistence_api_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ehcache_ehcache_2_10_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ehcache_ehcache_core_2_6_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_nekohtml_nekohtml_1_9_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ognl_ognl_3_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math3_3_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_clients_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_12_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_12_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_3_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_4_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_4_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_4_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_cache_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_cache_1_4_0_RC2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_config_core_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_config_core_1_4_0_RC2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_config_ogdl_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_config_ogdl_1_4_0_RC2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_core_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_core_1_4_0_RC2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_crypto_cipher_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_crypto_cipher_1_4_0_RC2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_crypto_core_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_crypto_core_1_4_0_RC2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_crypto_hash_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_crypto_hash_1_4_0_RC2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_ehcache_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_event_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_event_1_4_0_RC2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_lang_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_lang_1_4_0_RC2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_spring_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_spring_1_4_0_RC2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_web_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_web_1_4_0_RC2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_29.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_29.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_jasper_9_0_29.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_29.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_13_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_atteo_evo_inflector_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_crazycake_shiro_redis_2_4_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_dom4j_dom4j_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jdt_ecj_3_18_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_29.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_4_9_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_18_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_20_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_24_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_1_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jdom_jdom_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_vintage_junit_vintage_engine_5_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jvnet_staxex_stax_ex_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_lz4_lz4_java_1_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_2_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_generator_mybatis_generator_core_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_29.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_29.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_cache_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_rest_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_rest_core_3_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_rest_webmvc_3_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_hateoas_spring_hateoas_1_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_kafka_spring_kafka_2_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_retry_spring_retry_1_2_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_1_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_3_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_spring_boot_autoconfigure_1_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_spring_boot_starter_1_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xerces_xercesImpl_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/springBootDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cache/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cache/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cache/src/main/java/com/jack/springboot8cache/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cache/src/main/java/com/jack/springboot8cache/controller/CacheController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cache/src/main/java/com/jack/springboot8cache/dao/PersonRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cache/src/main/java/com/jack/springboot8cache/entity/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cache/src/main/java/com/jack/springboot8cache/impl/DemoServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cache/src/main/java/com/jack/springboot8cache/service/DemoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cache/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cache/src/test/java/com/jack/springboot8cache/Springboot8cacheApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-rest/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-rest/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-rest/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-rest/src/main/java/com/example/datarest/DataRestApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-rest/src/main/java/com/example/datarest/controller/PersonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-rest/src/main/java/com/example/datarest/controller/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-rest/src/main/java/com/example/datarest/dao/PersonRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-rest/src/main/java/com/example/datarest/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-rest/src/main/java/com/example/datarest/model/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-rest/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-rest/src/main/resources/mapper/DictionaryDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-rest/src/test/java/com/example/datarest/DataRestApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easypoi/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easypoi/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easypoi/src/main/java/com/example/easypoi/EasypoiApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easypoi/src/main/java/com/example/easypoi/controller/ExcelController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easypoi/src/main/java/com/example/easypoi/model/PersonExportVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easypoi/src/main/java/com/example/easypoi/utils/ExcelListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easypoi/src/main/java/com/example/easypoi/utils/ExcelUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easypoi/src/main/java/com/example/easypoi/utils/FileLoaderImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easypoi/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easypoi/src/main/resources/static/user1-128x128.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easypoi/src/test/java/com/example/easypoi/EasypoiApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ehcache/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ehcache/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ehcache/src/main/java/com/example/ehcache/EhcacheApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ehcache/src/main/java/com/example/ehcache/controller/CacheController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ehcache/src/main/java/com/example/ehcache/dao/PersonRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ehcache/src/main/java/com/example/ehcache/entity/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ehcache/src/main/java/com/example/ehcache/impl/DemoServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ehcache/src/main/java/com/example/ehcache/service/DemoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ehcache/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ehcache/src/main/resources/config/ehcache.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ehcache/src/test/java/com/example/ehcache/ChcacheApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/execl/execl.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/execl/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/execl/src/main/java/PoiExpExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/execl/src/main/java/PoiReadExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javacv/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javacv/src/main/java/com/example/javacv/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javacv/src/main/java/com/example/javacv/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka/kafka.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka/src/main/java/com/example/kafka/KafkaApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka/src/main/java/com/example/kafka/KafkaReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka/src/main/java/com/example/kafka/KafkaSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka/src/main/java/com/example/kafka/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka/src/test/java/com/example/kafka/KafkaApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kaptcha/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kaptcha/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kaptcha/src/main/java/com/example/kaptcha/CommonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kaptcha/src/main/java/com/example/kaptcha/KaptchaApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kaptcha/src/main/java/com/example/kaptcha/KaptchaCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kaptcha/src/main/java/com/example/kaptcha/adapter/AbstractKaptchaImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kaptcha/src/main/java/com/example/kaptcha/adapter/Kaptcha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kaptcha/src/main/java/com/example/kaptcha/adapter/impl/DefaultKaptchaImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kaptcha/src/main/java/com/example/kaptcha/adapter/impl/MathKaptchaImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kaptcha/src/main/java/com/example/kaptcha/autoConfiguration/KaptchaAutoConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kaptcha/src/main/java/com/example/kaptcha/cache/AbstractKaptchaCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kaptcha/src/main/java/com/example/kaptcha/cache/KaptchaCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kaptcha/src/main/java/com/example/kaptcha/cache/config/CacheType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kaptcha/src/main/java/com/example/kaptcha/cache/config/KaptchaCacheProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kaptcha/src/main/java/com/example/kaptcha/cache/impl/RedisKaptchaCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kaptcha/src/main/java/com/example/kaptcha/cache/impl/SessionKaptchaCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kaptcha/src/main/java/com/example/kaptcha/cache/manager/AbstractKaptchaCacheManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kaptcha/src/main/java/com/example/kaptcha/cache/manager/KaptchaCacheManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kaptcha/src/main/java/com/example/kaptcha/cache/manager/RedisKaptchaCacheManagerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kaptcha/src/main/java/com/example/kaptcha/cache/manager/SessionKaptchaCacheManagerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kaptcha/src/main/java/com/example/kaptcha/config/BackgroundColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kaptcha/src/main/java/com/example/kaptcha/config/Border.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kaptcha/src/main/java/com/example/kaptcha/config/Content.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kaptcha/src/main/java/com/example/kaptcha/config/Font.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kaptcha/src/main/java/com/example/kaptcha/config/KaptchaProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kaptcha/src/main/java/com/example/kaptcha/config/KaptchaType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kaptcha/src/main/java/com/example/kaptcha/config/Noise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kaptcha/src/main/java/com/example/kaptcha/config/Obscurificator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kaptcha/src/main/java/com/example/kaptcha/creator/KaptchaTextCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kaptcha/src/main/java/com/example/kaptcha/exception/KaptchaCacheException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kaptcha/src/main/java/com/example/kaptcha/exception/KaptchaException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kaptcha/src/main/java/com/example/kaptcha/exception/KaptchaIncorrectException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kaptcha/src/main/java/com/example/kaptcha/exception/KaptchaNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kaptcha/src/main/java/com/example/kaptcha/exception/KaptchaRenderException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kaptcha/src/main/java/com/example/kaptcha/exception/KaptchaTimeoutException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kaptcha/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kaptcha/src/test/java/com/example/kaptcha/KaptchaApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kaptcha/src/test/java/com/example/kaptcha/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/lambda.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/com/demo/lambda/compare/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/com/demo/lambda/compare/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/com/demo/lambda/defaultstatic/Ifunctional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/com/demo/lambda/defaultstatic/IfunctionalImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/com/demo/lambda/defaultstatic/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/com/demo/lambda/ifunctional/Ifuncationle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/com/demo/lambda/ifunctional/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/com/demo/lambda/ifunctional/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/com/demo/lambda/predicateFunction/ConsumerTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/com/demo/lambda/predicateFunction/FunctionTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/com/demo/lambda/predicateFunction/PredicateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/com/demo/lambda/predicateFunction/SupplierTest4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/com/demo/lambda/test6/CollectorJoinSummingIntTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/com/demo/lambda/test6/IntStatistic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/com/demo/lambda/test6/NewFeaturesTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/com/demo/lambda/test6/ParallelStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/com/demo/lambda/test6/SortRandomFilterMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/com/demo/lambda/test7/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/com/demo/lambda/test7/Reduce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/com/demo/lambda/test8/Base64Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/com/demo/lambda/test8/DateTimeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/com/demo/lambda/test8/NashornJavaScriptTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/com/demo/lambda/test8/OptionalFilesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/com/demo/lambda/test8/ParallelArraysTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/com/demo/lambda/test8/StreamSortRandomFilterMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/com/demo/lambda/test8/StreamSortRandomFilterMap2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/com/demo/lambda/test8/StreamSortRandomFilterMap3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/com/demo/lambda/test9/Converter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/com/demo/lambda/test9/Formula.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/com/demo/lambda/test9/Java8SortRandomFilterMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/target/classes/META-INF/lambda.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/target/classes/com/demo/lambda/compare/Test$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/target/classes/com/demo/lambda/compare/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/target/classes/com/demo/lambda/compare/Test2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/target/classes/com/demo/lambda/defaultstatic/Ifunctional.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/target/classes/com/demo/lambda/defaultstatic/IfunctionalImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/target/classes/com/demo/lambda/defaultstatic/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/target/classes/com/demo/lambda/ifunctional/Ifuncationle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/target/classes/com/demo/lambda/ifunctional/Test$Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/target/classes/com/demo/lambda/ifunctional/Test$PersonFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/target/classes/com/demo/lambda/ifunctional/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/target/classes/com/demo/lambda/ifunctional/Test1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/target/classes/com/demo/lambda/predicateFunction/ConsumerTest3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/target/classes/com/demo/lambda/predicateFunction/FunctionTest2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/target/classes/com/demo/lambda/predicateFunction/PredicateTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/target/classes/com/demo/lambda/predicateFunction/SupplierTest4$Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/target/classes/com/demo/lambda/predicateFunction/SupplierTest4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/target/classes/com/demo/lambda/test6/CollectorJoinSummingIntTest3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/target/classes/com/demo/lambda/test6/IntStatistic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/target/classes/com/demo/lambda/test6/NewFeaturesTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/target/classes/com/demo/lambda/test6/ParallelStream.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/target/classes/com/demo/lambda/test6/SortRandomFilterMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/target/classes/com/demo/lambda/test7/Apple.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/target/classes/com/demo/lambda/test7/Reduce.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/target/classes/com/demo/lambda/test8/Base64Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/target/classes/com/demo/lambda/test8/DateTimeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/target/classes/com/demo/lambda/test8/NashornJavaScriptTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/target/classes/com/demo/lambda/test8/OptionalFilesTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/target/classes/com/demo/lambda/test8/ParallelArraysTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/target/classes/com/demo/lambda/test8/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/target/classes/com/demo/lambda/test8/Status.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/target/classes/com/demo/lambda/test8/StreamSortRandomFilterMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/target/classes/com/demo/lambda/test8/StreamSortRandomFilterMap2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/target/classes/com/demo/lambda/test8/StreamSortRandomFilterMap3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/target/classes/com/demo/lambda/test9/Converter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/target/classes/com/demo/lambda/test9/Formula.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/target/classes/com/demo/lambda/test9/Java8SortRandomFilterMap$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/target/classes/com/demo/lambda/test9/Java8SortRandomFilterMap$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/target/classes/com/demo/lambda/test9/Java8SortRandomFilterMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/target/classes/com/demo/lambda/test9/Lambda4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/target/classes/com/demo/lambda/test9/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/target/classes/com/demo/lambda/test9/PersonFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/log.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/src/main/java/com/example/log/LogApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/src/main/java/com/example/log/annotation/SysLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/src/main/java/com/example/log/aspect/WebLogAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/src/main/java/com/example/log/controller/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/src/main/java/com/example/log/dao/LogDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/src/main/java/com/example/log/model/Log.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/src/main/java/com/example/log/service/Impl/LogServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/src/main/java/com/example/log/service/LogService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/src/main/resources/mapper/Logmapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/src/test/java/com/example/log/LogApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatisplus/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatisplus/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatisplus/mybatisplus.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatisplus/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatisplus/src/main/java/com/example/mybatisplus/MybatisplusApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatisplus/src/main/java/com/example/mybatisplus/common/config/BeanConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatisplus/src/main/java/com/example/mybatisplus/common/config/MybatisPlusConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatisplus/src/main/java/com/example/mybatisplus/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatisplus/src/main/java/com/example/mybatisplus/dao/StudentMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatisplus/src/main/java/com/example/mybatisplus/dao/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatisplus/src/main/java/com/example/mybatisplus/enums/AgeEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatisplus/src/main/java/com/example/mybatisplus/enums/GenderEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatisplus/src/main/java/com/example/mybatisplus/enums/GradeEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatisplus/src/main/java/com/example/mybatisplus/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatisplus/src/main/java/com/example/mybatisplus/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatisplus/src/main/java/com/example/mybatisplus/service/IUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatisplus/src/main/java/com/example/mybatisplus/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatisplus/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatisplus/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatisplus/src/test/java/com/example/mybatisplus/CRUDTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatisplus/src/test/java/com/example/mybatisplus/EnumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatisplus/src/test/java/com/example/mybatisplus/ExecutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatisplus/src/test/java/com/example/mybatisplus/Json2Markdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatisplus/src/test/java/com/example/mybatisplus/LogicDeleteTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatisplus/src/test/java/com/example/mybatisplus/MysqlGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatisplus/src/test/java/com/example/mybatisplus/OptLockerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatisplus/src/test/java/com/example/mybatisplus/PaginationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oss/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oss/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oss/src/main/java/com/example/oss/OssApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oss/src/main/java/com/example/oss/autoconfigure/OssAutoConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oss/src/main/java/com/example/oss/autoconfigure/OssClientFactoryBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oss/src/main/java/com/example/oss/config/ProjectConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oss/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oss/src/test/java/com/example/oss/OssApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readenv/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readenv/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readenv/src/main/java/com/example/readenv/Global.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readenv/src/main/java/com/example/readenv/ReadenvApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readenv/src/main/java/com/example/readenv/StringUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readenv/src/main/resources/application-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readenv/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readenv/src/test/java/com/example/readenv/ReadenvApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis-cache/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis-cache/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis-cache/src/main/java/com/example/rediscache/RedisCacheApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis-cache/src/main/java/com/example/rediscache/controller/CacheController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis-cache/src/main/java/com/example/rediscache/dao/PersonRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis-cache/src/main/java/com/example/rediscache/entity/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis-cache/src/main/java/com/example/rediscache/impl/DemoServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis-cache/src/main/java/com/example/rediscache/service/DemoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis-cache/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis-cache/src/test/java/com/example/rediscache/RedisCacheApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/redis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/src/main/java/com/example/redis/RedisApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/src/main/java/com/example/redis/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/src/main/java/com/example/redis/utils/RedisUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/src/test/java/com/example/redis/RedisApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis5/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis5/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis5/src/main/java/com/example/redis5/Redis5Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis5/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis5/src/test/java/com/example/redis5/Redis5ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/sql/shiro.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/src/main/java/com/example/shiroredissession/ShiroRedisSessionApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/src/main/java/com/example/shiroredissession/cache/CustomCacheManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/src/main/java/com/example/shiroredissession/cache/CustomerLogoutFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/src/main/java/com/example/shiroredissession/cache/JedisClientSingle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/src/main/java/com/example/shiroredissession/cache/MySimpleByteSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/src/main/java/com/example/shiroredissession/cache/RedisCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/src/main/java/com/example/shiroredissession/config/MyShiroRealm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/src/main/java/com/example/shiroredissession/config/ShiroConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/src/main/java/com/example/shiroredissession/dao/AuthDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/src/main/java/com/example/shiroredissession/dao/GoodsDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/src/main/java/com/example/shiroredissession/dao/RoleDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/src/main/java/com/example/shiroredissession/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/src/main/java/com/example/shiroredissession/dao/UserRoleAuthDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/src/main/java/com/example/shiroredissession/entity/Auth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/src/main/java/com/example/shiroredissession/entity/Goods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/src/main/java/com/example/shiroredissession/entity/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/src/main/java/com/example/shiroredissession/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/src/main/java/com/example/shiroredissession/service/AdminService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/src/main/java/com/example/shiroredissession/service/AuthService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/src/main/java/com/example/shiroredissession/service/GoodsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/src/main/java/com/example/shiroredissession/service/RoleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/src/main/java/com/example/shiroredissession/service/UserRoleAuthService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/src/main/java/com/example/shiroredissession/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/src/main/java/com/example/shiroredissession/service/impl/AdminServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/src/main/java/com/example/shiroredissession/service/impl/AuthServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/src/main/java/com/example/shiroredissession/service/impl/GoodsServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/src/main/java/com/example/shiroredissession/service/impl/RoleServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/src/main/java/com/example/shiroredissession/service/impl/UserRoleAuthServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/src/main/java/com/example/shiroredissession/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/src/main/java/com/example/shiroredissession/utils/ByteSourceUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/src/main/java/com/example/shiroredissession/utils/QueryUserNameUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/src/main/java/com/example/shiroredissession/web/AdminController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/src/main/java/com/example/shiroredissession/web/GoodsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/src/main/java/com/example/shiroredissession/web/MyErrorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/src/main/java/com/example/shiroredissession/web/ShiroController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/src/main/resources/config/ehcache-shiro.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/src/main/resources/mybatis/mapper/AuthDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/src/main/resources/mybatis/mapper/GoodsDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/src/main/resources/mybatis/mapper/RoleDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/src/main/resources/mybatis/mapper/UserDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/src/main/resources/mybatis/mapper/UserRoleAuthDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/src/main/resources/mybatis/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/src/main/resources/static/jquery-3.2.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/src/main/resources/templates/admin/manageUsers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/src/main/resources/templates/admin/updateOneUser.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/src/main/resources/templates/error/401.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/src/main/resources/templates/error/403.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/src/main/resources/templates/error/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/src/main/resources/templates/error/500.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/src/main/resources/templates/goods/addGoods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/src/main/resources/templates/goods/showGoods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/src/main/resources/templates/goods/updateGoods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/src/main/resources/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/src/main/resources/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis-session/src/test/java/com/example/shiroredissession/ShiroRedisSessionApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis/src/main/java/com/example/shiroredis/ShiroRedisApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis/src/main/java/com/example/shiroredis/config/ShiroConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis/src/main/java/com/example/shiroredis/dao/domain/SysResources.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis/src/main/java/com/example/shiroredis/dao/domain/SysRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis/src/main/java/com/example/shiroredis/dao/domain/SysRoleResources.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis/src/main/java/com/example/shiroredis/dao/domain/SysUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis/src/main/java/com/example/shiroredis/dao/domain/SysUserRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis/src/main/java/com/example/shiroredis/dao/mapper/SysResourcesMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis/src/main/java/com/example/shiroredis/dao/mapper/SysRoleMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis/src/main/java/com/example/shiroredis/dao/mapper/SysRoleResourcesMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis/src/main/java/com/example/shiroredis/dao/mapper/SysUserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis/src/main/java/com/example/shiroredis/dao/mapper/SysUserRoleMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis/src/main/java/com/example/shiroredis/exception/CtrlExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis/src/main/java/com/example/shiroredis/secutity/KickoutSessionControlFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis/src/main/java/com/example/shiroredis/secutity/MyShiroRealm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis/src/main/java/com/example/shiroredis/service/ResourcesService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis/src/main/java/com/example/shiroredis/service/SysRoleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis/src/main/java/com/example/shiroredis/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis/src/main/java/com/example/shiroredis/service/impl/ResourcesServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis/src/main/java/com/example/shiroredis/service/impl/SysRoleServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis/src/main/java/com/example/shiroredis/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis/src/main/java/com/example/shiroredis/utils/RequestUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis/src/main/java/com/example/shiroredis/web/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis/src/main/java/com/example/shiroredis/web/MusicInfoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis/src/main/resources/generatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis/src/main/resources/mapper/SysResourcesMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis/src/main/resources/mapper/SysRoleMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis/src/main/resources/mapper/SysRoleResourcesMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis/src/main/resources/mapper/SysUserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis/src/main/resources/mapper/SysUserRoleMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis/src/main/webapp/WEB-INF/jsp/403.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis/src/main/webapp/WEB-INF/jsp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis/src/main/webapp/WEB-INF/jsp/kickout.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis/src/main/webapp/WEB-INF/jsp/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis/src/main/webapp/js/jquery-1.11.0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro-redis/src/test/java/com/example/shiroredis/ShiroRedisApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro/shiro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro/sql/shiro.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro/src/main/java/com/example/shiro/ShiroApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro/src/main/java/com/example/shiro/config/filter/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro/src/main/java/com/example/shiro/config/shiro/MyShiroRealm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro/src/main/java/com/example/shiro/config/shiro/ShiroConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro/src/main/java/com/example/shiro/dao/UserInfoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro/src/main/java/com/example/shiro/pojo/SysPermission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro/src/main/java/com/example/shiro/pojo/SysRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro/src/main/java/com/example/shiro/pojo/UserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro/src/main/java/com/example/shiro/service/UserInfoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro/src/main/java/com/example/shiro/service/impl/UserInfoServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro/src/main/java/com/example/shiro/web/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro/src/main/java/com/example/shiro/web/UserInfoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro/src/main/resources/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro/src/main/resources/templates/userInfo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro/src/main/resources/templates/userInfoAdd.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro/src/main/resources/templates/userInfoDel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiro/src/test/java/com/example/shiro/ShiroApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger/src/main/java/com/example/swagger/SwaggerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger/src/main/java/com/example/swagger/dao/domain/MusicInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger/src/main/java/com/example/swagger/dao/mapper/MusicInfoMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger/src/main/java/com/example/swagger/dao/utils/Swagger2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger/src/main/java/com/example/swagger/service/MusicInfoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger/src/main/java/com/example/swagger/service/impl/MusicInfoServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger/src/main/java/com/example/swagger/web/MusicInfoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger/src/main/resources/mapper/MusicInfoMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger/src/test/java/com/example/swagger/SwaggerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger2/src/main/java/com/example/swagger2/Swagger2Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger2/src/main/java/com/example/swagger2/annotation/IgnoreSwaggerParameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger2/src/main/java/com/example/swagger2/config/CustomizeModelAttributeParameterExpander.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger2/src/main/java/com/example/swagger2/config/Swagger2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger2/src/main/java/com/example/swagger2/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger2/src/main/java/com/example/swagger2/model/Dept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger2/src/main/java/com/example/swagger2/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger2/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger2/src/test/java/com/example/swagger2/Swagger2ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validator/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validator/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validator/src/main/java/com/example/validator/ValidatorApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validator/src/main/java/com/example/validator/controller/PersonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validator/src/main/java/com/example/validator/framework/exception/handler/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validator/src/main/java/com/example/validator/framework/validgroup/AddGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validator/src/main/java/com/example/validator/framework/validgroup/UpdateGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validator/src/main/java/com/example/validator/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validator/src/main/java/com/example/validator/model/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validator/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validator/src/test/java/com/example/validator/ValidatorApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zip/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zip/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zip/src/main/java/com/example/zip/ZipApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zip/src/main/java/com/example/zip/ZipController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zip/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zip/src/test/java/com/example/zip/ZipApplicationTests.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/swagger2/target/" />
+    <ignored path="$PROJECT_DIR$/data-rest/target/" />
+    <ignored path="$PROJECT_DIR$/shiro/target/" />
+    <ignored path="$PROJECT_DIR$/shiro-redis-session/target/" />
+    <ignored path="$PROJECT_DIR$/swagger/target/" />
+    <ignored path="$PROJECT_DIR$/shiro-redis/target/" />
+    <ignored path="$PROJECT_DIR$/cache/target/" />
+    <ignored path="$PROJECT_DIR$/redis-cache/target/" />
+    <ignored path="$PROJECT_DIR$/mybatisplus/target/" />
+    <ignored path="$PROJECT_DIR$/easypoi/target/" />
+    <ignored path="$PROJECT_DIR$/kafka/target/" />
+    <ignored path="$PROJECT_DIR$/kaptcha/target/" />
+    <ignored path="$PROJECT_DIR$/readenv/target/" />
+    <ignored path="$PROJECT_DIR$/validator/target/" />
+    <ignored path="$PROJECT_DIR$/log/target/" />
+    <ignored path="$PROJECT_DIR$/execl/target/" />
+    <ignored path="$PROJECT_DIR$/redis5/target/" />
+    <ignored path="$PROJECT_DIR$/zip/target/" />
+    <ignored path="$PROJECT_DIR$/redis/target/" />
+    <ignored path="$PROJECT_DIR$/oss/target/" />
+    <ignored path="$PROJECT_DIR$/lambda/target/" />
+    <ignored path="$PROJECT_DIR$/mysql8/target/" />
+    <ignored path="$PROJECT_DIR$/ehcache/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="audio-db@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="audio-db@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="audio-db@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="audio-db: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shiro/src/main/java/com/example/shiro/web/UserInfoController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="31" column="7" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shiro/src/main/java/com/example/shiro/service/impl/UserInfoServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shiro/src/main/java/com/example/shiro/config/shiro/ShiroConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-spring/1.4.0-RC2/shiro-spring-1.4.0-RC2.jar!/org/apache/shiro/spring/web/ShiroFilterFactoryBean.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="42" column="15" selection-start-line="42" selection-start-column="15" selection-end-line="42" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shiro/src/main/java/com/example/shiro/config/shiro/MyShiroRealm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="54" column="42" selection-start-line="54" selection-start-column="42" selection-end-line="54" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mybatisplus/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0-RC2/shiro-core-1.4.0-RC2-sources.jar!/org/apache/shiro/subject/Subject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="39" column="90" selection-start-line="39" selection-start-column="90" selection-end-line="39" selection-end-column="90" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0-RC2/shiro-core-1.4.0-RC2-sources.jar!/org/apache/shiro/SecurityUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="53" column="43" selection-start-line="53" selection-start-column="43" selection-end-line="53" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0-RC2/shiro-core-1.4.0-RC2-sources.jar!/org/apache/shiro/util/ThreadContext.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3735">
+              <caret line="280" column="26" selection-start-line="280" selection-start-column="26" selection-end-line="280" selection-end-column="26" />
+              <folding>
+                <element signature="e#11028#11029#0" expanded="true" />
+                <element signature="e#11077#11078#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.4.0-RC2/shiro-web-1.4.0-RC2.jar!/org/apache/shiro/web/servlet/AbstractShiroFilter.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getAnnotationLog</find>
+      <find>partitioningBy</find>
+      <find>doGetAuthenticationInfo</find>
+      <find>credentialsMatcher</find>
+      <find>authc</find>
+      <find>filterChainDefinitionMap</find>
+      <find>FilterChainManager</find>
+      <find>doFilterInternal</find>
+      <find>SpringShiroFilter</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/data-rest/src/main/java/com/example/entity/Dictionary.java" />
+        <option value="$PROJECT_DIR$/lambda/src/main/java/com/demo/lambda/defaultstatic/Test.java" />
+        <option value="$PROJECT_DIR$/lambda/src/main/java/com/demo/lambda/compare/Test2.java" />
+        <option value="$PROJECT_DIR$/lambda/src/main/java/com/demo/lambda/ifunctional/Test.java" />
+        <option value="$PROJECT_DIR$/lambda/src/main/java/com/demo/lambda/ifunctional/Test1.java" />
+        <option value="$PROJECT_DIR$/lambda/src/main/java/com/demo/lambda/predicateFunction/Test.java" />
+        <option value="$PROJECT_DIR$/lambda/src/main/java/com/demo/lambda/predicateFunction/ConsumerTest3.java" />
+        <option value="$PROJECT_DIR$/lambda/src/main/java/com/demo/lambda/predicateFunction/PredicateTest.java" />
+        <option value="$PROJECT_DIR$/lambda/src/main/java/com/demo/lambda/predicateFunction/FunctionTest2.java" />
+        <option value="$PROJECT_DIR$/lambda/src/main/java/com/demo/lambda/predicateFunction/SupplierTest4.java" />
+        <option value="$PROJECT_DIR$/lambda/src/main/java/com/demo/lambda/test6/Test.java" />
+        <option value="$PROJECT_DIR$/lambda/src/main/java/com/demo/lambda/test6/SortRandomFilterMap.java" />
+        <option value="$PROJECT_DIR$/lambda/src/main/java/com/demo/lambda/test6/ParallelStream.java" />
+        <option value="$PROJECT_DIR$/lambda/src/main/java/com/demo/lambda/test6/CollectorJoinTest3.java" />
+        <option value="$PROJECT_DIR$/lambda/src/main/java/com/demo/lambda/test6/IntStatistic.java" />
+        <option value="$PROJECT_DIR$/lambda/src/main/java/com/demo/lambda/test7/Reduce.java" />
+        <option value="$PROJECT_DIR$/lambda/src/main/java/com/demo/lambda/test8/DateTimeTest.java" />
+        <option value="$PROJECT_DIR$/lambda/src/main/java/com/demo/lambda/test8/OptionalTest.java" />
+        <option value="$PROJECT_DIR$/lambda/src/main/java/com/demo/lambda/test8/OptionalFilesTest.java" />
+        <option value="$PROJECT_DIR$/lambda/src/main/java/com/demo/lambda/test8/Base64Test.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../../../software/maven/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="shiro-redis-session" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="shiro-redis-session" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="940" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="springBootDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springBootDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springBootDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springBootDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springBootDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springBootDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springBootDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springBootDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springBootDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springBootDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springBootDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springBootDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springBootDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springBootDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springBootDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="springBootDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="springBootDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springBootDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springBootDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springBootDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="function" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springBootDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="javax" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springBootDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="javax" type="462c0819:PsiDirectoryNode" />
+              <item name="script" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springBootDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.aspectj:aspectjweaver:1.9.5" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="springBootDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.crazycake:shiro-redis:2.4.2.1-RELEASE" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="springBootDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-web:5.2.2.RELEASE" type="70bed36:NamedLibraryElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.StreamSortRandomFilterMap.test11">
+    <configuration name="Base64Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.lambda.test8.Base64Test" />
+      <module name="lambda" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.lambda.test8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CollectorJoinSummingIntTest3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.lambda.test6.CollectorJoinSummingIntTest3" />
+      <module name="lambda" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.lambda.test6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NashornJavaScriptTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.lambda.test8.NashornJavaScriptTest" />
+      <module name="lambda" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.lambda.test8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OptionalFilesTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.lambda.test8.OptionalFilesTest" />
+      <module name="lambda" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.lambda.test8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamSortRandomFilterMap.test11" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lambda" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.lambda.test8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.demo.lambda.test8" />
+      <option name="MAIN_CLASS_NAME" value="com.demo.lambda.test8.StreamSortRandomFilterMap" />
+      <option name="METHOD_NAME" value="test11" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cache" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jack.springboot8cache.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataRestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="data-rest" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.datarest.DataRestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EasypoiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="easypoi" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.easypoi.EasypoiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EhcacheApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ehcache" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.ehcache.EhcacheApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KafkaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kafka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.kafka.KafkaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KaptchaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kaptcha" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.kaptcha.KaptchaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="log" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.log.LogApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisplusApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mybatisplus" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.mybatisplus.MybatisplusApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mysql8Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mysql8" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.mysql8.Mysql8Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OssApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="oss" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.oss.OssApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadenvApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="readenv" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.readenv.ReadenvApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Redis5Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="redis5" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.redis5.Redis5Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="redis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.redis.RedisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisCacheApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="redis-cache" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.rediscache.RedisCacheApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShiroApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shiro" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.shiro.ShiroApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShiroRedisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shiro-redis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.shiroredis.ShiroRedisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShiroRedisSessionApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shiro-redis-session" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.shiroredissession.ShiroRedisSessionApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Swagger2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="swagger2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.swagger2.Swagger2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwaggerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="swagger" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.swagger.SwaggerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidatorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="validator" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.validator.ValidatorApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZipApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="zip" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.zip.ZipApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StreamSortRandomFilterMap.test11" />
+        <item itemvalue="Application.Base64Test" />
+        <item itemvalue="Application.OptionalFilesTest" />
+        <item itemvalue="Application.NashornJavaScriptTest" />
+        <item itemvalue="Application.CollectorJoinSummingIntTest3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed9bf748-b218-4083-b498-6e6e16a84b5a" name="Default Changelist" comment="" />
+      <created>1587733421307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587733421307</updated>
+      <workItem from="1587733422840" duration="151000" />
+      <workItem from="1587734314334" duration="278000" />
+      <workItem from="1587734725984" duration="599000" />
+      <workItem from="1587956213737" duration="449000" />
+      <workItem from="1587965284340" duration="857000" />
+      <workItem from="1587966177045" duration="616000" />
+      <workItem from="1587975197360" duration="2449000" />
+      <workItem from="1588042372539" duration="1445000" />
+      <workItem from="1588081110927" duration="304000" />
+      <workItem from="1588081452893" duration="1471000" />
+      <workItem from="1588082961785" duration="1139000" />
+      <workItem from="1588122236598" duration="14245000" />
+      <workItem from="1588162679531" duration="1239000" />
+      <workItem from="1588166230622" duration="1533000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="StreamSortRandomFilterMap_test11 - 2020.04.29 at 11h 28m 20s.xml">
+      <configuration name="StreamSortRandomFilterMap.test11" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="26775000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="940" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26251528" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Web" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32900944" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.16273585" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39976415" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="LuaCheck" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Spring" order="13" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="bottom" id="Sequence" order="15" />
+      <window_info anchor="bottom" id="Messages" order="16" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" visible="true" weight="0.24297924" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="SciView" order="6" weight="0.32967034" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32967034" />
+      <window_info anchor="right" id="Bean Validation" order="8" weight="0.32967034" />
+      <window_info anchor="right" id="Codota" order="9" weight="0.20634921" />
+      <window_info anchor="right" id="StackInTheFlow" order="10" />
+      <window_info anchor="right" id="PlantUML" order="11" weight="0.32967034" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/cache/src/main/java/com/jack/springboot8cache/controller/CacheController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cache/src/main/java/com/jack/springboot8cache/impl/DemoServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-140">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shiro-redis/src/main/java/com/example/shiroredis/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0/shiro-core-1.4.0.jar!/org/apache/shiro/authc/RememberMeAuthenticationToken.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0/shiro-core-1.4.0.jar!/org/apache/shiro/authc/credential/CredentialsMatcher.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0/shiro-core-1.4.0.jar!/org/apache/shiro/authc/AuthenticationToken.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0/shiro-core-1.4.0.jar!/org/apache/shiro/authc/UsernamePasswordToken.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="73" column="18" selection-start-line="73" selection-start-column="18" selection-end-line="73" selection-end-column="18" />
+          <folding>
+            <element signature="e#2342#2343#0" expanded="true" />
+            <element signature="e#2383#2384#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0/shiro-core-1.4.0.jar!/org/apache/shiro/authc/credential/DefaultPasswordService.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="92" column="19" selection-start-line="92" selection-start-column="19" selection-end-line="92" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0/shiro-core-1.4.0.jar!/org/apache/shiro/authc/credential/PasswordMatcher.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="19" column="50" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0/shiro-core-1.4.0.jar!/org/apache/shiro/realm/AuthenticatingRealm.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="194" column="27" selection-start-line="194" selection-start-column="27" selection-end-line="194" selection-end-column="27" />
+          <folding>
+            <element signature="e#2626#2627#0" expanded="true" />
+            <element signature="e#2672#2673#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0/shiro-core-1.4.0.jar!/org/apache/shiro/realm/AuthorizingRealm.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0/shiro-core-1.4.0.jar!/org/apache/shiro/authc/HostAuthenticationToken.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0/shiro-core-1.4.0.jar!/org/apache/shiro/authc/SimpleAuthenticationInfo.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0/shiro-core-1.4.0.jar!/org/apache/shiro/realm/CachingRealm.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="46" column="18" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
+          <folding>
+            <element signature="e#1493#1494#0" expanded="true" />
+            <element signature="e#1525#1526#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0/shiro-core-1.4.0.jar!/org/apache/shiro/subject/PrincipalCollection.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0/shiro-core-1.4.0.jar!/org/apache/shiro/authc/AuthenticationInfo.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shiro-redis/src/main/java/com/example/shiroredis/service/impl/SysRoleServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+          <folding>
+            <element signature="e#590#591#0" expanded="true" />
+            <element signature="e#655#656#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shiro-redis/src/main/java/com/example/shiroredis/dao/mapper/SysResourcesMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shiro-redis/src/main/java/com/example/shiroredis/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="33" column="24" lean-forward="true" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+          <folding>
+            <element signature="e#908#909#0" expanded="true" />
+            <element signature="e#957#958#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0/shiro-core-1.4.0.jar!/org/apache/shiro/authz/Permission.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0/shiro-core-1.4.0.jar!/org/apache/shiro/authz/permission/DomainPermission.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0/shiro-core-1.4.0.jar!/org/apache/shiro/authz/SimpleAuthorizationInfo.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shiro-redis/src/main/java/com/example/shiroredis/secutity/MyShiroRealm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-71">
+          <caret line="18" column="35" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shiro-redis/src/main/java/com/example/shiroredis/secutity/KickoutSessionControlFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-471">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.4.0/shiro-web-1.4.0.jar!/org/apache/shiro/web/session/mgt/DefaultWebSessionManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/crazycake/shiro-redis/2.4.2.1-RELEASE/shiro-redis-2.4.2.1-RELEASE.jar!/org/crazycake/shiro/RedisSessionDAO.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shiro-redis/src/main/java/com/example/shiroredis/config/ShiroConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2010">
+          <caret line="151" column="38" selection-start-line="151" selection-start-column="8" selection-end-line="151" selection-end-column="38" />
+          <folding>
+            <element signature="e#2983#2984#0" expanded="true" />
+            <element signature="e#3024#3025#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shiro/src/main/java/com/example/shiro/pojo/UserInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="95" column="18" selection-start-line="95" selection-start-column="18" selection-end-line="95" selection-end-column="18" />
+          <folding>
+            <element signature="e#1915#1916#0" expanded="true" />
+            <element signature="e#1963#1964#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0-RC2/shiro-core-1.4.0-RC2.jar!/org/apache/shiro/realm/CachingRealm.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="46" column="11" selection-start-line="46" selection-start-column="11" selection-end-line="46" selection-end-column="11" />
+          <folding>
+            <element signature="e#1493#1494#0" expanded="true" />
+            <element signature="e#1525#1526#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shiro/src/main/java/com/example/shiro/web/HomeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shiro/src/main/java/com/example/shiro/ShiroApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0-RC2/shiro-core-1.4.0-RC2.jar!/org/apache/shiro/authz/annotation/RequiresPermissions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0-RC2/shiro-core-1.4.0-RC2.jar!/org/apache/shiro/authz/aop/PermissionAnnotationHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="23" column="32" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0-RC2/shiro-core-1.4.0-RC2-sources.jar!/org/apache/shiro/authz/aop/AuthorizingAnnotationHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0-RC2/shiro-core-1.4.0-RC2-sources.jar!/org/apache/shiro/mgt/AuthorizingSecurityManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="135" column="16" selection-start-line="135" selection-start-column="16" selection-end-line="135" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0-RC2/shiro-core-1.4.0-RC2-sources.jar!/org/apache/shiro/subject/support/DelegatingSubject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="208" column="39" selection-start-line="208" selection-start-column="24" selection-end-line="208" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0-RC2/shiro-core-1.4.0-RC2-sources.jar!/org/apache/shiro/authz/aop/PermissionAnnotationHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="75" column="9" lean-forward="true" selection-start-line="75" selection-start-column="9" selection-end-line="75" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0-RC2/shiro-core-1.4.0-RC2-sources.jar!/org/apache/shiro/authz/annotation/RequiresPermissions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="47" column="18" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0-RC2/shiro-core-1.4.0-RC2-sources.jar!/org/apache/shiro/realm/CachingRealm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="53" column="76" lean-forward="true" selection-start-line="53" selection-start-column="76" selection-end-line="53" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0-RC2/shiro-core-1.4.0-RC2-sources.jar!/org/apache/shiro/aop/AnnotationHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="56" column="34" selection-start-line="56" selection-start-column="34" selection-end-line="56" selection-end-column="34" />
+          <folding>
+            <element signature="e#2086#2087#0" expanded="true" />
+            <element signature="e#2135#2136#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shiro/src/main/java/com/example/shiro/web/UserInfoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="31" column="7" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shiro/src/main/java/com/example/shiro/service/impl/UserInfoServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shiro/src/main/java/com/example/shiro/config/shiro/ShiroConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-spring/1.4.0-RC2/shiro-spring-1.4.0-RC2.jar!/org/apache/shiro/spring/web/ShiroFilterFactoryBean.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="42" column="15" selection-start-line="42" selection-start-column="15" selection-end-line="42" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shiro/src/main/java/com/example/shiro/config/shiro/MyShiroRealm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="54" column="42" selection-start-line="54" selection-start-column="42" selection-end-line="54" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0-RC2/shiro-core-1.4.0-RC2-sources.jar!/org/apache/shiro/subject/Subject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="39" column="90" selection-start-line="39" selection-start-column="90" selection-end-line="39" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0-RC2/shiro-core-1.4.0-RC2-sources.jar!/org/apache/shiro/SecurityUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="53" column="43" selection-start-line="53" selection-start-column="43" selection-end-line="53" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0-RC2/shiro-core-1.4.0-RC2-sources.jar!/org/apache/shiro/util/ThreadContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3735">
+          <caret line="280" column="26" selection-start-line="280" selection-start-column="26" selection-end-line="280" selection-end-column="26" />
+          <folding>
+            <element signature="e#11028#11029#0" expanded="true" />
+            <element signature="e#11077#11078#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.4.0-RC2/shiro-web-1.4.0-RC2.jar!/org/apache/shiro/web/servlet/AbstractShiroFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatisplus/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

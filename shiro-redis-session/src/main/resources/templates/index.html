@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>欢迎界面</title>
+    <style>
+        table {
+            width: 30%;
+            text-align: center;
+            position: fixed;
+            top: 30%;
+            left: 35%;
+        }
+
+        a {
+            color: #666;
+            font-size: 18px;
+            text-decoration: none;
+        }
+
+        a:hover {
+            cursor: pointer;
+            color: red;
+        }
+
+        td{
+            padding: 25px;
+        }
+
+        p {
+            display: inline;
+        }
+    </style>
+</head>
+<body>
+<p th:text="'当前用户：' + ${username}"></p>
+<a href="/logout" style="font-size: 14px">退出登录</a>
+<table border="1" cellpadding="1" cellspacing="0">
+
+    <thead>
+        <tr class="tr">
+            <th>请选择您的服务</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr >
+            <td>
+                <a th:href="@{/goods/queryAll}">查询全部货物信息</a>
+            </td>
+        </tr>
+       <tr>
+           <td>
+               <a th:href="@{/goods/addGoods}">添加货物信息</a>
+           </td>
+       </tr>
+
+       <tr>
+           <td>
+               <a th:href="@{/admin/queryAllUser}">用户管理</a>
+           </td>
+       </tr>
+    </tbody>
+</table>
+</body>
+</html>

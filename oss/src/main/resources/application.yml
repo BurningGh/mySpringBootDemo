@@ -1,0 +1,7 @@
+project:
+  # oss\u5BB9\u5668\u5730\u5740
+  ossEndpoint:  oss-cn-hangzhou.aliyuncs.com
+  # oss\u5BB9\u5668id
+  ossAccessKeyId:
+  # oss\u5BB9\u5668\u79D8\u94A5
+  ossAccessKeySecret:
