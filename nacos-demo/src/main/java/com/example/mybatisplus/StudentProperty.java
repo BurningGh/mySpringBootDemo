@@ -8,10 +8,11 @@ import org.springframework.stereotype.Component;
 
 /**
  * 务必要加Component注解，否则beanPostProcessor处理不到
+ *
  * @author dengwenjian
  * @date 2021/1/16
  */
-@NacosConfigurationProperties(dataId = "student",type = ConfigType.PROPERTIES,autoRefreshed = true)
+@NacosConfigurationProperties(dataId = "student", type = ConfigType.PROPERTIES, autoRefreshed = true)
 @Data
 @Component
 @ToString
