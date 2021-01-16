@@ -1,0 +1,18 @@
+#app
+server:
+  port: 80
+
+
+#日志配置
+logging:
+  level:
+    org.springframework: debug
+    alibaba.nacos: debug
+nacos:
+  config:
+    server-addr: 127.0.0.1:8848
+    #注意该nameSpace是控制台上的nameSpaceId而非nameSpace名
+    namespace: c2f2a37f-87ca-4886-91f2-015f7832fb12
+
+
+
